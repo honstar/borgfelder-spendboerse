@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Borgfelder Spendenboerse
+Public website to coordinate with donations for ukrainian refugees.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--borgfelder-spendboerse--honstar.hlx.page/
+- Live: https://main--borgfelder-spendboerse--honstar.hlx.live/
 
 ## Installation
 
