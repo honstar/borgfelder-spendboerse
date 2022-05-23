@@ -5,3 +5,6 @@ import { sampleRUM } from './scripts.js';
 sampleRUM('cwv');
 
 // add more delayed functionality here
+async function loadOffers() {
+    console.log(`${window.hlx.codeBasePath}`);
+}

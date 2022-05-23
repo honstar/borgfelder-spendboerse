@@ -103,6 +103,10 @@ pre {
   overflow: scroll;
 }
 
+.hero p {
+  text-align: center;
+}
+
 /* buttons */
 
 a.button:any-link, button {
